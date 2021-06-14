@@ -1,0 +1,1 @@
+import GameController from "./game_controller.js";
